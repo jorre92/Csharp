@@ -1,0 +1,11 @@
+E:\Csharp\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp2.1\CSharpTraining.deps.json
+E:\Csharp\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp2.1\CSharpTraining.runtimeconfig.json
+E:\Csharp\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp2.1\CSharpTraining.runtimeconfig.dev.json
+E:\Csharp\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp2.1\CSharpTraining.dll
+E:\Csharp\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp2.1\CSharpTraining.pdb
+E:\Csharp\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp2.1\CSharpTraining.csprojAssemblyReference.cache
+E:\Csharp\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp2.1\CSharpTraining.csproj.CoreCompileInputs.cache
+E:\Csharp\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp2.1\CSharpTraining.AssemblyInfoInputs.cache
+E:\Csharp\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp2.1\CSharpTraining.AssemblyInfo.cs
+E:\Csharp\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp2.1\CSharpTraining.dll
+E:\Csharp\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp2.1\CSharpTraining.pdb
